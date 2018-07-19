@@ -1,3 +1,7 @@
+# accounts 
+accounts/
+
+.DS_Store
 # Logs
 logs
 *.log
